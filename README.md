@@ -14,7 +14,7 @@ A [Claude Code](https://claude.ai/code) plugin that connects to [Toggl Track](ht
 **1. Add the marketplace and install the plugin:**
 
 ```bash
-claude plugin marketplace add https://github.com/vpodorozh/toggl-claude-plugin
+claude plugin marketplace add https://github.com/run-as-root/toggl-claude-plugin
 claude plugin install toggl
 ```
 
